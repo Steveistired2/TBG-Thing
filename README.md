@@ -16,7 +16,9 @@ Contact me with my email: giaphuc.le1@rbe.sk.ca to ask for any trouble or giving
 
 ## Contribution
 
-Any contribution is welcome but it has to be done by me as I do not want my code to be messed up. Just tell me what you want to add, I will think and/or discuss about it before making the final decision.
+Any contribution is welcome but it has to be done by me as I do not want my code to be messed up. 
+
+Just tell me what you want to add, I will think and/or discuss about it before making the final decision.
 
 
 ## Credit
