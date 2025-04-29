@@ -12,4 +12,4 @@ TBA
 
 ## Support
 
-Contact me with my email: giaphuc.le1@rbe.sk.ca to ask for any trouble or giving feedbacks.
+Contact me with my email: (giaphuc.le1@rbe.sk.ca) to ask for any trouble or giving feedbacks.
